@@ -1,3 +1,2 @@
-# angular-tutorial
+# Angular Tutorial
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-h4ck17)
